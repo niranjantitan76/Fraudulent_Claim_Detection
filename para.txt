@@ -1,0 +1,21 @@
+incident_dayofweek,total_claim_amount,insured_occupation
+number_of_vehicles_involved,incident_type_Single Vehicle Collision,collision_type_Unknow
+
+incident_type_Parked Car	inf
+1	collision_type_Unknow	inf
+2	incident_type_Vehicle Theft	inf
+3	const	99.796572
+4	number_of_vehicles_involved	18.367470
+
+incident_type_Parked Car	inf
+1	incident_type_Vehicle Theft	inf
+2	collision_type_Unknow	inf
+
+coef bigger
+'insured_hobbies_exercise','authorities_contacted_Police','auto_make_Dodge'
+
+ensitivity: 0.38461538461538464 | Specificity: 0.9 
+Precision: 0.5882352941176471 |Recall: 0.38461538461538464 | F1_Score: 0.46511627906976744
+
+importance threshhold =96
+lowvariance = 0.06
