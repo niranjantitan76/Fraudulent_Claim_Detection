@@ -111,20 +111,8 @@ Use the **RandomizedSearchCV** or **GridSearchCV** in the **`model_training.py`*
 
 ---
 
-## **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ### **Contact**
 
-If you have any questions or suggestions, feel free to open an issue or contact me at [your-email@example.com].
+If you have any questions or suggestions, feel free to open an issue or contact us [@[niranjansingh] and @[nitishnarayanan002]
 
----
-
-This **README** provides an overview of the project, including instructions for setup, model training, evaluation, and conclusions. Let me know if you need any more additions or modifications!
-
-## Contact
-Created by [@[niranjansingh] and @[nitishnarayanan002]
 
